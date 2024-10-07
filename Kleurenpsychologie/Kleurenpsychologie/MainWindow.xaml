@@ -13,10 +13,10 @@
 <Image Source="/Images/Geel.png" Margin="279,82,180,232" MouseEnter="Yellow_MouseEnter" MouseLeave="Yellow_MouseLeave" MouseDown="Yellow_MouseDown"/>
 <Image Source="/Images/Groen.png" Margin="18,217,485,100" MouseEnter="Green_MouseEnter" MouseLeave="Green_MouseLeave" MouseDown="Green_MouseDown"/>
 <Image Source="/Images/Blauw.png" Margin="329,217,230,92" MouseEnter="Blue_MouseEnter" MouseLeave="Blue_MouseLeave" MouseDown="Blue_MouseDown"/>
-        <TextBlock Name="kleurcodeTextBlock" HorizontalAlignment="Left" Margin="41,365,0,0" TextWrapping="Wrap" Text="Kleurcode:" VerticalAlignment="Top"/>
-        <TextBox Name="kleurcodeTextBox" HorizontalAlignment="Left" Margin="110,365,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <TextBlock Name="informatieTextBlock" HorizontalAlignment="Left" Margin="41,397,0,0" TextWrapping="Wrap" Text="Informatie:" VerticalAlignment="Top"/>
-        <TextBox Name="informatieTextBox" HorizontalAlignment="Left" Margin="110,397,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Name="kleurcodeTextBlock" HorizontalAlignment="Left" Margin="41,351,0,0" TextWrapping="Wrap" Text="Kleurcode:" VerticalAlignment="Top"/>
+        <TextBox Name="kleurcodeTextBox" HorizontalAlignment="Left" Margin="110,351,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Name="informatieTextBlock" HorizontalAlignment="Left" Margin="41,377,0,0" TextWrapping="Wrap" Text="Informatie:" VerticalAlignment="Top"/>
+        <TextBox Name="informatieTextBox" HorizontalAlignment="Left" Margin="110,377,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>
